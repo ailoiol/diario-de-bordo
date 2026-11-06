@@ -29,8 +29,7 @@ docs/perguntas.md.
 -->
 
 ## Pergunta 1 da fase
-
-_(cole aqui a primeira pergunta da fase e escreva sua resposta dissertativa)_
+_(cole aqui a segunda pergunta da fase e escreva sua resposta dissertativa)_
 
 ## Pergunta 2 da fase
 

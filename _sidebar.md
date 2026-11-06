@@ -6,6 +6,8 @@
 - Minhas entradas
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
   - [Sprint 1-4](blog/Sprint1-4.md)
+  - [Pós Release 1](blog/Pós-Release1.md)
+  - [Diário de Bordo 3](blog/DiarioBordo3.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
